@@ -36,19 +36,6 @@ experience:
         * Modelling
         * Deploying
 
-  - title: Sourcing Execution Team Specialist
-    company: Accenture
-    company_url: 'https://www.accenture.com/'
-    company_logo: org-x
-    location: Kuala Lumpur, Malaysia
-    date_start: '2019-11-04'
-    date_end: '2021-02-01'
-    description: |2-
-    Key responsibilities :
-
-    *	Prepare digital tools to enable digital procurement
-    * Category Excellence (CE) Framework
-
 design:
   columns: '2'
 ---
