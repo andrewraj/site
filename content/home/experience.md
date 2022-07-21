@@ -26,8 +26,8 @@ experience:
     company: Accenture
     company_url: 'https://www.accenture.com/'
     company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    location: Greater KL
+    date_start: '2021-02-01'
     date_end: ''
     description: |2-
         Responsibilities include:
@@ -44,6 +44,18 @@ experience:
     date_start: '2016-01-01'
     date_end: '2020-12-31'
     description: Taught electronic engineering and researched semiconductor physics.
+
+  - title: Sourcing Execution Team Specialist
+    company: Accenture
+    company_url: https://www.accenture.com/
+    location: Kuala Lumpur, Malaysia
+    date_start: '2019-11-04'
+    date_end: '2021-02-01'
+    description: |2-
+    Key responsibilities :
+
+    *	Prepare digital tools to enable digital procurement
+    * Category Excellence (CE) Framework
 
 design:
   columns: '2'
