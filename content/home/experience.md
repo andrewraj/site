@@ -25,7 +25,6 @@ experience:
   - title: Program Manager
     company: Accenture
     company_url: 'https://www.accenture.com/'
-    company_logo: acn
     location: Greater KL
     date_start: '2021-02-01'
     date_end: ''
@@ -39,7 +38,6 @@ experience:
   - title: Sourcing Execution Team Specialist
     company: Accenture
     company_url: 'https://www.accenture.com/'
-    company_logo: acn
     location: Kuala Lumpur, Malaysia
     date_start: '2019-11-04'
     date_end: '2021-02-01'
@@ -52,7 +50,6 @@ experience:
   - title: Strategic IT Analyst
     company: Telekom Malaysia Berhad
     company_url: 'https://www.tm.com.my/'
-    company_logo: org-x
     location: Kuala Lumpur, Malaysia
     date_start: '2015-05-01'
     date_end: '2019-10-31'
@@ -67,7 +64,6 @@ experience:
   - title: Assistant Manager (IT)
     company: Telekom Malaysia Berhad
     company_url: 'https://www.tm.com.my/'
-    company_logo: org-x
     location: Kuala Lumpur, Malaysia
     date_start: '2014-09-01'
     date_end: '2015-04-30'
@@ -83,7 +79,6 @@ experience:
   - title: Technical Lead
     company: Kenway Consulting Pty. Ltd
     company_url: 'http://www.kenway.com.au/'
-    company_logo: org-x
     location: Melbourne, Australia
     date_start: '2014-03-01'
     date_end: '2014-07-30'
@@ -98,7 +93,6 @@ experience:
   - title: Intern
     company: mCruncher R&D Sdn. Bhd.
     company_url: 'http://www.mcruncher.com/'
-    company_logo: org-x
     location: Cyberjaya, Malaysia
     date_start: '2012-03-01'
     date_end: '2012-06-30'
