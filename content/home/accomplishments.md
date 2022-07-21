@@ -27,7 +27,7 @@ item:
     date_end: '2020-03-18'
     date_start: '2017-03-17'
     description: ''
-    organization: Amazon Web Services, Inc.
+    organization: AWS
     organization_url: https://aws.amazon.com/
     title: AWS Certified Solutions Architect – Associate
     url: ''
