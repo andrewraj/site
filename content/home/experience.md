@@ -44,8 +44,9 @@ experience:
     description: |2-
         Key responsibilities :
 
-        *	Prepare digital tools to enable digital procurement
-        * Category Excellence (CE) Framework
+        *	Process improvement & best practices consultancy
+        * Prepare digital tools to enable digital procurement
+        * Category Excellence (CE) Framework & Playbook
 
   - title: Strategic IT Analyst
     company: Telekom Malaysia Berhad
