@@ -33,8 +33,8 @@ experience:
         Responsibilities include:
         
         * Resource planning 
-        * Hiring & Headcou
-        * 
+        * Set up & manage operations
+        * Client reports & reviews
 
   - title: Sourcing Execution Team Specialist
     company: Accenture
