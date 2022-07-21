@@ -21,10 +21,14 @@ interests:
   - Automation
   - Digital Procurement
   - Technology
+  - Retire
 
 # Education to show in About widget
 education:
   courses:
+    - course: PhD in Googling Information 
+      institution: The Internet
+      year: ''
     - course: Master of Computer Science 
       institution: Royal Melbourne Institute of Technology
       year: 2014
