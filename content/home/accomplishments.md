@@ -29,6 +29,7 @@ item:
     description: ''
     organization: Amazon Web Services, Inc.
     organization_url: https://aws.amazon.com/
+    organization_logo: aws
     title: AWS Certified Solutions Architect – Associate
     url: ''
   - certificate_url: ""
