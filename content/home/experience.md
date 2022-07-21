@@ -32,9 +32,9 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Resource planning 
+        * Hiring & Headcou
+        * 
 
   - title: Sourcing Execution Team Specialist
     company: Accenture
@@ -48,6 +48,69 @@ experience:
 
         *	Prepare digital tools to enable digital procurement
         * Category Excellence (CE) Framework
+
+  - title: Strategic IT Analyst
+    company: Telekom Malaysia Berhad
+    company_url: 'https://www.tm.com.my/'
+    company_logo: org-x
+    location: Kuala Lumpur, Malaysia
+    date_start: '2015-05-01'
+    date_end: '2019-10-31'
+    description: |2-
+        Key responsibilities :
+
+        *	Strategize IT procurement activities
+        *	Review/propose alternative IT solutions
+        *	Commercial negotiation with vendors
+        *	Negotiate & manage contracting
+
+  - title: Assistant Manager (IT)
+    company: Telekom Malaysia Berhad
+    company_url: 'https://www.tm.com.my/'
+    company_logo: org-x
+    location: Kuala Lumpur, Malaysia
+    date_start: '2014-09-01'
+    date_end: '2015-04-30'
+    description: |2-
+        Key responsibilities:
+
+        *	Preparation of tender documents
+        *	Tender activities (e.g. tender float, briefing, clarification, closing)
+        *	Negotiation with vendors
+        *	Contract owner/creator
+        *	Seek senior management approval
+
+  - title: Technical Lead
+    company: Kenway Consulting Pty. Ltd
+    company_url: 'http://www.kenway.com.au/'
+    company_logo: org-x
+    location: Melbourne, Australia
+    date_start: '2014-03-01'
+    date_end: '2014-07-30'
+    description: |2-
+        Key responsibilities:
+
+        * Android development lead
+        * Overall solution architecture
+        * System design
+        * UI/UX design
+
+  - title: Intern
+    company: mCruncher R&D Sdn. Bhd.
+    company_url: 'http://www.mcruncher.com/'
+    company_logo: org-x
+    location: Cyberjaya, Malaysia
+    date_start: '2012-03-01'
+    date_end: '2012-06-30'
+    description: |2-
+        Key responsibilities:
+
+        *	Building a company website
+        * Technical documentation
+        * Website UI/UX design
+        * Building an intranet website to automate internal work flows
+        * Research on business intelligence tools (IBM Cognos)
+
 
 design:
   columns: '2'
