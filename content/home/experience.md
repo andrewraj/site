@@ -84,6 +84,7 @@ experience:
   - title: Technical Lead
     company: Kenway Consulting Pty. Ltd
     company_url: 'http://www.kenway.com.au/'
+    company_logo: kenway
     location: Melbourne, Australia
     date_start: '2014-03-01'
     date_end: '2014-07-30'
