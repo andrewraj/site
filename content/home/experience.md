@@ -99,6 +99,7 @@ experience:
   - title: Intern
     company: mCruncher R&D Sdn. Bhd.
     company_url: 'http://www.mcruncher.com/'
+    company_logo: mcruncher
     location: Cyberjaya, Malaysia
     date_start: '2012-03-01'
     date_end: '2012-06-30'
