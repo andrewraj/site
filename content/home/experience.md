@@ -25,7 +25,7 @@ experience:
   - title: Program Manager
     company: Accenture
     company_url: 'https://www.accenture.com/'
-    company_logo: org-gc
+    company_logo: accenture
     location: Greater KL
     date_start: '2021-02-01'
     date_end: ''
@@ -39,7 +39,7 @@ experience:
   - title: Sourcing Execution Team Specialist
     company: Accenture
     company_url: 'https://www.accenture.com/'
-    company_logo: org-x
+    company_logo: accenture
     location: Kuala Lumpur, Malaysia
     date_start: '2019-11-04'
     date_end: '2021-02-01'
