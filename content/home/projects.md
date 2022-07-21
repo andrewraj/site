@@ -30,9 +30,11 @@ content:
     - name: DIY
       tag: DIY Projects
     - name: Automation
-      tag: Home Automation
+      tag: Automation
     - name: Homelab
-      tag: Homelab
+      tag: homelab
+    - name: Videography
+      tag: videography
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.

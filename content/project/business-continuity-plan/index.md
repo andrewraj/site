@@ -1,9 +1,9 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: Business Continuity Plan (BCP)
+summary: Lockdown project to ensure the my legacy is left behind in case of any distruptive incidents 
 tags:
-  - Deep Learning
-date: '2016-04-27T00:00:00Z'
+  - Homelab
+date: '2020-03-23T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''

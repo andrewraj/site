@@ -1,6 +1,6 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: Portable LCD Monitor
+summary: Repurposing screen from damaged laptops into portable lcd monitors 
 tags:
   - Deep Learning
 date: '2016-04-27T00:00:00Z'

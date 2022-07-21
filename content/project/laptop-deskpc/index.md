@@ -1,8 +1,8 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: Desk-Top
+summary: Repurposing an old broken laptop into a a desk PC
 tags:
-  - Deep Learning
+  - DIY Projects
 date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
