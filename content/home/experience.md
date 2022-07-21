@@ -53,6 +53,7 @@ experience:
   - title: Strategic IT Analyst
     company: Telekom Malaysia Berhad
     company_url: 'https://www.tm.com.my/'
+    company_logo: tm
     location: Kuala Lumpur, Malaysia
     date_start: '2015-05-01'
     date_end: '2019-10-31'
@@ -67,6 +68,7 @@ experience:
   - title: Assistant Manager (IT)
     company: Telekom Malaysia Berhad
     company_url: 'https://www.tm.com.my/'
+    company_logo: tm
     location: Kuala Lumpur, Malaysia
     date_start: '2014-09-01'
     date_end: '2015-04-30'
