@@ -35,7 +35,7 @@ item:
     date_end: ''
     date_start: '2011-03-19'
     description: 'DB2 9 Database and Application Fundamentals'
-    organization: edX
+    organization: IBM
     organization_url: https://www.edx.org
     title: IBM Certified Academic Associate
     url: http://www.ibm.com/
