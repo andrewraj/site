@@ -27,10 +27,12 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Deep Learning
-      tag: Deep Learning
-    - name: Other
-      tag: Demo
+    - name: DIY
+      tag: DIY Projects
+    - name: Automation
+      tag: Home Automation
+    - name: Homelab
+      tag: Homelab
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
