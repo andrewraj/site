@@ -68,4 +68,4 @@ email: ''
 highlight_name: true
 ---
 
-Andrew Raj is a Program Manager for a global Geospatial Operations serving a technology client at Accenture. His experience includes program & project management, procurement consultancy, category management & strategic sourcing with over 8 years of experience. 
+Andrew Raj is a Program Manager for a global technology client managing Geospatial Operations at Accenture. His experience includes program & project management, procurement consultancy, category management & strategic sourcing along with entrepreneurship endeavours with over 10 years of experience. 
