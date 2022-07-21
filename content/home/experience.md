@@ -25,7 +25,7 @@ experience:
   - title: Program Manager
     company: Accenture
     company_url: 'https://www.accenture.com/'
-    company_logo: accenture
+    company_logo: org-acn
     location: Greater KL
     date_start: '2021-02-01'
     date_end: ''
