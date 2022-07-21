@@ -39,7 +39,7 @@ experience:
   - title: Sourcing Execution Team Specialist
     company: Accenture
     company_url: 'https://www.accenture.com/'
-    company_logo: accenture
+    company_logo: acn
     location: Kuala Lumpur, Malaysia
     date_start: '2019-11-04'
     date_end: '2021-02-01'
