@@ -32,7 +32,7 @@ slides: ""
 
 Got interested in ambient lighting and was sticking LED's all around the house. However I didn't want to just stick a simple LED behind my TV and this project caught my attention. Sourced all the components from China and locally. Failed multiple times, but eventually made it. Here's the end result
 
-{{< video src="ideo.mp4" controls="yes" >}}
+{{< video src="video.mp4" controls="yes" >}}
 
 It definetely wasn't easy and here's a peak of what's at the back of the TV
 
