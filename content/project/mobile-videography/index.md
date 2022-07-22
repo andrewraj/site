@@ -1,5 +1,5 @@
 ---
-title: Mobile Videography (Wedding)
+title: Mobile Videography
 summary: Friends who trusted me to videoshoot their wedding with my mobile phone
 tags:
   - videography
@@ -9,7 +9,7 @@ date: '2016-04-27T00:00:00Z'
 external_link: ''
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Photo while I was editing the video
   focal_point: Smart
 
 links:
