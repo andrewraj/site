@@ -39,3 +39,9 @@ After signing the contract and obtaining the license to proceed, I spent 2 years
 Finally the DR site was delivered and handed over to my hands for continuous imaging
 
 ![Photo with baby](IMG_20200503_160538.jpg "Photo of baby Adriel")
+
+{{ with .Resources.GetMatch "IMG_20200503_160538.jpg" }}
+  {{ with .Resize (printf "%dx%d r90" .Height .Width) }}
+    <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}">
+  {{ end }}
+{{ end }}
