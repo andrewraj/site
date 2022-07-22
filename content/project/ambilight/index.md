@@ -15,8 +15,8 @@ image:
 links:
   - icon: instagram
     icon_pack: fab
-    name: Like
-    url: https://twitter.com/georgecushen
+    name: Check it on Instagram
+    url: https://www.instagram.com/p/BlGIFyCgdfp/
 url_code: ''
 url_pdf: ''
 url_slides: ''
