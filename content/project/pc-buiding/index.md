@@ -23,7 +23,7 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: ""
 ---
 
 This is a placeholder for my PC Building endeavours. This is probably the longest standing project as it started in the early 2000s up and it's still an interest up to today.
