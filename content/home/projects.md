@@ -30,7 +30,7 @@ content:
     - name: DIY
       tag: DIY Projects
     - name: Automation
-      tag: Automation
+      tag: automation
     - name: Homelab
       tag: homelab
     - name: Videography

@@ -1,8 +1,8 @@
 ---
-title: Mobile Photoshoot
-summary: An example of using the in-built project page.
+title: Mobile Videography (Wedding)
+summary: Friends who trusted me to videoshoot their wedding with my mobile phone
 tags:
-  - Deep Learning
+  - videography
 date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
@@ -15,8 +15,8 @@ image:
 links:
   - icon: youtube
     icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
+    name: Watch on Youtube
+    url: https://www.youtube.com/watch?v=hGAjaw1fyIU&ab_channel=AndrewRaj
 url_code: ''
 url_pdf: ''
 url_slides: ''
@@ -38,5 +38,3 @@ I shared with a few friends that I bought a gimbal on Lazada, telling them what 
   * Editing : DaVinci Resolve 16
 
 {{< youtube hGAjaw1fyIU >}}
-
-I
