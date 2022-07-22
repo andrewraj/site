@@ -25,4 +25,5 @@ slides: ""
 * Network Attached Storage (using OpenMediaVault)
   * Media Server (Plex)
 * Network wide ad-blocker (AdGuard)
+* Network TV Tuner
 * etc..
