@@ -34,6 +34,6 @@ Got interested in ambient lighting and was sticking LED's all around the house. 
 
 {{< video src="video.mp4" controls="yes" >}}
 
-It definetely wasn't easy and here's a peak of what's at the back of the TV
+The ambient lighting looks much better in real compared to what is capture through my phone's camera. It definetely wasn't easy and here's a peak of what's at the back of the TV
 
 {{< gallery album="ambilight" >}}
